@@ -1,0 +1,14 @@
+D:\Working\Knic\Code base\DataObjects\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+D:\Working\Knic\Code base\DataObjects\bin\Debug\DataObjects.dll.config
+D:\Working\Knic\Code base\DataObjects\bin\Debug\DataObjects.dll
+D:\Working\Knic\Code base\DataObjects\bin\Debug\DataObjects.pdb
+D:\Working\Knic\Code base\DataObjects\bin\Debug\AutoMapper.dll
+D:\Working\Knic\Code base\DataObjects\bin\Debug\BusinessObjects.dll
+D:\Working\Knic\Code base\DataObjects\bin\Debug\EntityFramework.dll
+D:\Working\Knic\Code base\DataObjects\bin\Debug\BusinessObjects.pdb
+D:\Working\Knic\Code base\DataObjects\bin\Debug\AutoMapper.xml
+D:\Working\Knic\Code base\DataObjects\bin\Debug\EntityFramework.xml
+D:\Working\Knic\Code base\DataObjects\obj\Debug\DataObjects.dll
+D:\Working\Knic\Code base\DataObjects\obj\Debug\DataObjects.pdb
+D:\Working\Knic\Code base\DataObjects\bin\Debug\EntityFramework.SqlServer.dll
+D:\Working\Knic\Code base\DataObjects\bin\Debug\EntityFramework.SqlServer.xml

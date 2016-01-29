@@ -1,0 +1,15 @@
+D:\Working\Knic\Code base\WpfApp\obj\Debug\Wpf.csprojResolveAssemblyReference.cache
+D:\Working\Knic\Code base\WpfApp\obj\Debug\WindowAbout.baml
+D:\Working\Knic\Code base\WpfApp\obj\Debug\WindowMember.baml
+D:\Working\Knic\Code base\WpfApp\obj\Debug\WindowLogin.baml
+D:\Working\Knic\Code base\WpfApp\obj\Debug\WindowOrders.baml
+D:\Working\Knic\Code base\WpfApp\obj\Debug\WindowAbout.g.cs
+D:\Working\Knic\Code base\WpfApp\obj\Debug\WindowMember.g.cs
+D:\Working\Knic\Code base\WpfApp\obj\Debug\WindowLogin.g.cs
+D:\Working\Knic\Code base\WpfApp\obj\Debug\WindowMain.g.cs
+D:\Working\Knic\Code base\WpfApp\obj\Debug\WindowOrders.g.cs
+D:\Working\Knic\Code base\WpfApp\obj\Debug\App.g.cs
+D:\Working\Knic\Code base\WpfApp\obj\Debug\WpfApp_Content.g.cs
+D:\Working\Knic\Code base\WpfApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Working\Knic\Code base\WpfApp\obj\Debug\WpfApp_MarkupCompile.cache
+D:\Working\Knic\Code base\WpfApp\obj\Debug\WpfApp_MarkupCompile.lref

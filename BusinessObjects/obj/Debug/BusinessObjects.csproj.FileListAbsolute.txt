@@ -1,0 +1,5 @@
+D:\Working\Knic\Code base\BusinessObjects\bin\Debug\BusinessObjects.dll
+D:\Working\Knic\Code base\BusinessObjects\bin\Debug\BusinessObjects.pdb
+D:\Working\Knic\Code base\BusinessObjects\obj\Debug\BusinessObjects.dll
+D:\Working\Knic\Code base\BusinessObjects\obj\Debug\BusinessObjects.pdb
+D:\Working\Knic\Code base\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache

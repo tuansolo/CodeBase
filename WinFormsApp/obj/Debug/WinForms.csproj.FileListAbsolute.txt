@@ -1,0 +1,7 @@
+D:\Working\Knic\Code base\WinFormsApp\obj\Debug\WinForms.csprojResolveAssemblyReference.cache
+D:\Working\Knic\Code base\WinFormsApp\obj\Debug\WinFormsApp.FormAbout.resources
+D:\Working\Knic\Code base\WinFormsApp\obj\Debug\WinFormsApp.FormMember.resources
+D:\Working\Knic\Code base\WinFormsApp\obj\Debug\WinFormsApp.FormLogin.resources
+D:\Working\Knic\Code base\WinFormsApp\obj\Debug\WinFormsApp.FormMain.resources
+D:\Working\Knic\Code base\WinFormsApp\obj\Debug\WinFormsApp.Properties.Resources.resources
+D:\Working\Knic\Code base\WinFormsApp\obj\Debug\WinForms.csproj.GenerateResource.Cache

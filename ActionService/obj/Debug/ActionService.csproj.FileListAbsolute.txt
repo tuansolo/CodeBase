@@ -1,0 +1,13 @@
+D:\Working\Knic\Code base\ActionService\obj\Debug\ActionService.csprojResolveAssemblyReference.cache
+D:\Working\Knic\Code base\ActionService\bin\Debug\ActionService.dll
+D:\Working\Knic\Code base\ActionService\bin\Debug\ActionService.pdb
+D:\Working\Knic\Code base\ActionService\bin\Debug\BusinessObjects.dll
+D:\Working\Knic\Code base\ActionService\bin\Debug\DataObjects.dll
+D:\Working\Knic\Code base\ActionService\bin\Debug\EntityFramework.dll
+D:\Working\Knic\Code base\ActionService\bin\Debug\AutoMapper.dll
+D:\Working\Knic\Code base\ActionService\bin\Debug\BusinessObjects.pdb
+D:\Working\Knic\Code base\ActionService\bin\Debug\DataObjects.pdb
+D:\Working\Knic\Code base\ActionService\bin\Debug\EntityFramework.xml
+D:\Working\Knic\Code base\ActionService\bin\Debug\AutoMapper.xml
+D:\Working\Knic\Code base\ActionService\obj\Debug\ActionService.dll
+D:\Working\Knic\Code base\ActionService\obj\Debug\ActionService.pdb
